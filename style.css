@@ -42,3 +42,42 @@ section {
     margin-left: 10px;
 
 }
+
+
+
+
+.mis {
+    color: rgb(3, 3, 56);
+    text-align: center;
+}
+.m2020 {
+    color: coral;
+    text-align: center;
+}
+
+.lokko {
+    display: flex;
+    width: 100%;
+    margin-bottom: 50px;
+    padding: 5px;
+    margin-left: 10px;
+    gap: 5px;
+   
+
+}
+.mission {
+    width: 32%;
+    background-color:rgb(94, 94, 247) ;
+    border-radius: 5px;
+}
+.vision {
+    width: 32%;
+    background-color: rgb(245, 168, 114);
+    border-radius: 5px;
+}
+.goals {
+    width: 32%;
+    background-color: rgb(250, 139, 99);
+    border-radius: 5px;
+
+}
