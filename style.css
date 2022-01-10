@@ -81,3 +81,25 @@ section {
     border-radius: 5px;
 
 }
+.img-width {
+    width: 40%;
+}
+.mi {
+    font-size: 2opx;
+    margin-left: 30px;
+    justify-content: flex-start;
+    align-items: start;
+}
+.mii {
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    align-items: center;
+    padding: 15px;
+}
+.fot {
+    text-align: center;
+    background-color: rgb(15, 0, 0);
+    color: #fff;
+    font-family: 'moon dance';
+    padding: 5px;
+}
